@@ -1,0 +1,9 @@
+{
+    "banco": "Banco de Springfield",
+    "sucursal": "Springfield, IL",    
+    "titular": "Torres Manuel",
+    "nro_cuenta": "1752461/08",    
+    "saldo": [ { "moneda": "USD", "monto": 725.09 }, { "moneda": "EUR", "monto": 195.67} ],
+    "cbu": "1562244781396451",
+    "abierto": "01/05/2021"
+}
